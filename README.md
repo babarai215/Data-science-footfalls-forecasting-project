@@ -1,1 +1,1 @@
-# Data-science-footfalls-forecasting-project
+footfalls-forecasting-project
